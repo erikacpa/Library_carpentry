@@ -1,1 +1,2 @@
 This is my first text file for Git.
+Here is more test for another test with Git.
